@@ -1,4 +1,5 @@
-### Hi there 👋
+### Frontend developer who loves nature and the ocean! Slow but Steady 🐢
+Love to use **vue.js** and **typescript**
 
 <!--
 **kang-hyunsoo/kang-hyunsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
